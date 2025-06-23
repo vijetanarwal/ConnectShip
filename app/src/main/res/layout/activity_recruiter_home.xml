@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/bg_gradient"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Heading -->
+        <TextView
+            android:text="Post Internship"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#1E88E5"
+            android:layout_marginBottom="24dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!-- Title -->
+        <EditText
+            android:id="@+id/titleEditText"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Internship Title"
+            android:background="@drawable/rounded_input"
+            android:paddingHorizontal="16dp"
+            android:layout_marginBottom="12dp"/>
+
+        <!-- Company -->
+        <EditText
+            android:id="@+id/companyEditText"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Company Name"
+            android:background="@drawable/rounded_input"
+            android:paddingHorizontal="16dp"
+            android:layout_marginBottom="12dp"/>
+
+        <!-- Location -->
+        <EditText
+            android:id="@+id/locationEditText"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Location"
+            android:background="@drawable/rounded_input"
+            android:paddingHorizontal="16dp"
+            android:layout_marginBottom="12dp"/>
+
+        <!-- Stipend -->
+        <EditText
+            android:id="@+id/stipendEditText"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Stipend (₹)"
+            android:inputType="number"
+            android:background="@drawable/rounded_input"
+            android:paddingHorizontal="16dp"
+            android:layout_marginBottom="20dp"/>
+
+        <!-- Post Button -->
+        <Button
+            android:id="@+id/postButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Post Internship"
+            android:backgroundTint="#1E88E5"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <!-- My Posts Button -->
+        <Button
+            android:id="@+id/btnMyPosts"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="My Posts"
+            android:backgroundTint="#43A047"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</ScrollView>

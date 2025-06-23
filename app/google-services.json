@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000246200299",
+    "project_id": "connectship-db804",
+    "storage_bucket": "connectship-db804.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000246200299:android:7b626fe35be228d321bbae",
+        "android_client_info": {
+          "package_name": "com.example.connectship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJCtpU714RAIZ8HsFSXjLYDdlKd43QvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
