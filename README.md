@@ -2,6 +2,7 @@
 
 **ConnectShip** is a modern Android application that helps bridge the gap between **interns** and **recruiters**. Whether you're a student looking for internship opportunities or a recruiter wanting to post internship openings — ConnectShip brings you both on a common platform with clean UI and simple flows.
 
+
 🚀 This app makes it easier to:
 - 🧑‍🎓 **Apply to internships**
 - 📄 **Track your applied internships**
