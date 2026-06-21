@@ -33,10 +33,13 @@
 
 ---
 
-![auth](https://github.com/user-attachments/assets/af7c1d7e-0a4a-4032-bb07-c6c57d5900b7)
+## Screenshots
 
-![postinternship](https://github.com/user-attachments/assets/74b3b3a5-7a83-433b-889b-859298e43fcc)
-![inter](https://github.com/user-attachments/assets/99b6759e-20df-4ea4-957f-c62541bd9e8d)
+| Login | Add internship | view |
+|-------|----------|------|
+| ![auth](https://github.com/user-attachments/assets/af7c1d7e-0a4a-4032-bb07-c6c57d5900b7) | ![messages](https://github.com/user-attachments/assets/74b3b3a5-7a83-433b-889b-859298e43fcc) | ![chat](https://github.com/user-attachments/assets/99b6759e-20df-4ea4-957f-c62541bd9e8d) |
+
+
 
 
 
